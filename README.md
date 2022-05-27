@@ -1,4 +1,4 @@
-# You-Me-and-Solidity
+# You Me and Solidity
 
 ![Logo](https://i.ibb.co/VLTK5Gq/solidity-nedir-removebg-preview.png)
 
