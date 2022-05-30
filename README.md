@@ -11,7 +11,7 @@ The Solidity compiler encourages to use machine-readable SPDX license identifier
 
 `// SPDX-License-Identifier: MIT`
 
-There many licence identifier. [For more](https://spdx.org/licenses/)
+There many licence identifieres. [For more](https://spdx.org/licenses/)
 
 
 ## Contract Compilation
@@ -23,7 +23,7 @@ Basically smart contracts compiled into 2 parts.
 Simply Application Binary Interface (ABI) manages connecting to that specific smart contract, handle function calls, data type, data transfer from that contract. 
 
 ### Byte Code: 
-Byte code is public, readable and immutable code that is deployed to the smart contract. Then the byte code converts to low level opcode and EVM executes the opcode.
+Byte code is public, readable and immutable code that is deployed to the smart contract. Then the byte code is converted to low level opcode and EVM executes the opcode.
 
 ![Logo](https://i.ibb.co/3hpgssb/et5PNG.png)
 
