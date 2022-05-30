@@ -6,6 +6,14 @@
 You can start writting solidity contracts directly on `https://remix.ethereum.org/`
 (In the contracts file of remix IDE, there are some demo solidity contracts. You can give it a look to these codes. But don't worry if you don't understand anything. We are going to learn everything to write codes like these and beyond. 
 
+## SPDX License Identifier
+The Solidity compiler encourages to use machine-readable SPDX license identifiers at the top of the contract, mainly for licensing, copyright issues.
+
+`// SPDX-License-Identifier: MIT`
+
+There many licence identifier. [For more](https://spdx.org/licenses/)
+
+
 ## Contract Compilation
 Basically smart contracts compiled into 2 parts.
 
