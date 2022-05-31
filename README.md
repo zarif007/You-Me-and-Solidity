@@ -22,7 +22,7 @@ Basically smart contracts compiled into 2 parts. ABI and Byte Code
 ### ABI: 
 Simply Application Binary Interface (ABI) manages connecting to that specific smart contract, handle function calls, data type, data transfer from that contract. 
 Markup : <details>
-           <summary>ABI Example</summary>
+           <summary>`ABI Example`</summary>
            <p>[
                 {
                     "inputs": [
@@ -44,7 +44,7 @@ Markup : <details>
 ### Byte Code: 
 Byte code is public, readable and immutable code that is deployed to the smart contract. Then the byte code is converted to low level opcode and EVM executes the opcode.
 Markup : <details>
-           <summary>Byte Code Example</summary>
+           <summary>`Byte Code Example`</summary>
            <p>
             {
                 "functionDebugData": {},
